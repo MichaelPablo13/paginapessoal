@@ -10,7 +10,17 @@ li {
 #content {
 	height: 500px;
 	margin: 0 auto;
+    font-family: Helvetica;
+    font-size: 14px;
 }
+
+
+/* H1 for the titles of the companies and position taken*/
+/*Companies title*/
+h1{
+    font-size: 5px;
+}
+
 
 #foot {
 	height: 150px;
